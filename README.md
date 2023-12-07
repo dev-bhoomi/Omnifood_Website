@@ -1,7 +1,7 @@
 
 #  omnifood website js
 
-Welcome to [Your Website Name]! This website is built using HTML, CSS, and JavaScript to create an engaging and interactive experience for users. It's designed to [briefly describe the purpose or main features of your website].
+Welcome to omnifood website! This website is built using HTML, CSS, and JavaScript to create an engaging and interactive experience for users.The website is designed to adapt and display correctly on various devices, such as desktops, tablets, and mobile phones.
 ## Demo
 
 Insert gif or link to demo
