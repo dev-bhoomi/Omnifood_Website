@@ -1,18 +1,17 @@
 
-# omnifood website
+# Postfolio website
 
-Welcome to omnifood website! This website is built using HTML, CSS, and JavaScript to create an engaging and interactive experience for users.The website is designed to adapt and display correctly on various devices, such as desktops, tablets, and mobile phones.
+A Portfolio Website is a personal online platform that showcases your work, skills, and achievements. It's designed to highlight your professional experience, projects, and talents in a visually appealing and organized manner. Whether you're a designer, developer, writer, or artist, a portfolio website helps you present your best work to potential clients, employers, or collaborators.
+
 
 ## Features
 
-- #### Interactive Experience: 
-Enjoy a website that's engaging and fun to use, making it easy to explore and interact with.
+- #### Showcase Your Work: 
+ Display your projects, designs, or creations with images, descriptions, and links to live examples or code repositories.
+ 
+- #### Highlight Skills and Experience:
+Include sections for your resume, skills, certifications, and professional achievements to give visitors a clear view of your expertise.
 
-- #### Works on Any Device:
-Whether you're on a computer, tablet, or phone, Omnifood adjusts perfectly to your screen size, ensuring a smooth experience everywhere.
-
-- #### Modern and Reliable: 
-Built with HTML, CSS, and JavaScript, Omnifood uses these tools to create a modern and reliable website that looks great and works well.
 
 ## Languages/Library
 ### Languages
